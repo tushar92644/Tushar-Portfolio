@@ -12,13 +12,12 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and Css with easy-to-customize colors**
 
 **📱 Fully Responsive**
 
