@@ -1,8 +1,8 @@
 
 
-## TL;DR
+## TUSHAR'S PORTFOLIO
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [tushar92644](https://github.com/tushar92644/Portfolio-master). Thanks!
 
 
 This project was built using these technologies.
